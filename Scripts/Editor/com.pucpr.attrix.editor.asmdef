@@ -1,0 +1,18 @@
+{
+    "name": "com.pucpr.attrix.editor",
+    "rootNamespace": "PUCPR.AttriX.Editor",
+    "references": [
+        "GUID:c5283228829fcc9489fbaedeca03973a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
