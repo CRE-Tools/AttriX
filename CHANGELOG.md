@@ -1,3 +1,8 @@
+## [1.1.0] - 2025-10-29
+
+### Modified
+- UserManual documentation implemented
+
 ## [1.0.0] - 2025-10-21
 
 ### Modified
