@@ -1,3 +1,13 @@
+## [1.2.0] - 2026-01-06
+
+### Added
+- New Property:
+  - DropdownEnumString
+
+### Modified
+- Docs:
+    - README file (new feature)
+
 ## [1.1.0] - 2025-10-29
 
 ### Modified

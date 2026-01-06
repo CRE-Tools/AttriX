@@ -1,4 +1,4 @@
-v1.1.0
+v1.2.0
 <p align="center">
     <img width="100" height="100" src="/Documentation~/logos/1024x.png" align="center" />
 </p>
@@ -29,6 +29,9 @@ The package includes attributes for visual organization, providing a cleaner and
 
 - UnderlineSeparator
   Adds a visual horizontal line below the decorated field in the Inspector to separate and organize sections.
+
+- DropdownEnumString
+  Make a dropdown selectable string based on an Enum. Use `Description` value, fallback to enum string value
 
 ## How to Install
 
