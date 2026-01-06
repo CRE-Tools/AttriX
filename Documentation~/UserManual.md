@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Outdated document
+
 <h1 align="center">AttriX - User Manual</h1>
 <p align="right">v1.1.0</p>
 
